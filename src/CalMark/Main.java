@@ -11,6 +11,7 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             System.out.printf("Score[%d] = ",i );
             scores[i] = scan.nextInt();
+
         }
 
         MaxMinAvg test = new MaxMinAvg();

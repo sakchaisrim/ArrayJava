@@ -21,5 +21,7 @@ public class MaxMinAvg {
         }
         avg = sum/p.length;
         return avg;
+
+
     }
 }
